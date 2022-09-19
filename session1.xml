@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE Music_Library [
+<!ELEMENT Music_Librabry (title,artist,country,prise,year)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT artist (#PCDATA)>
+<!ELEMENT country (#PCDATA)>
+<!ELEMENT prise (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ENTITY MS "Thatz life">
+]>
+
+<!DOCTYPE Student [
+<!ELEMENT Student (name,dob,bloodgroup,rollnumber)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT dob (#PCDATA)>
+<!ELEMENT bloodgroup (#PCDATA)>
+<!ELEMENT rollnumber (#PCDATA)>
+<!ENTITY MS "Thatz life">
+]> -->
+
+<watch>
+    <name>Titan</name>
+    <prise>$50</prise>
+    <descrip>A brown Diamond watch.</descrip>
+<flower>
+    <name>Rose</name>
+    <prise>$5</prise>
+    <descrip>Red in colour.</descrip>
+    <number>700</number>
+</flower>
+
+<book>
+<name>Good XML</name>
+<cost>$20</cost>
+</book>
+
+<library>
+    <name>4U Library</name>
+    <address>#1 , A Mansion Tzaho</address>
+    <auction>10000</auction>
+</library>
+<name nickname="Jhon">
+    <firstname>Jhon</firstname>
+    <!--Jhon is yet to pay the term fees-->
+    <lastname>brown</lastname>
+    <semester>Final</semester>
+</name>    
+</watch>
+
+
+<!-- <Music_Library>
+    <title>Ylo</title>
+    <artist>&MS; - jenny daN</artist>
+    <country>Germany</country>
+    <prise>$12</prise>
+    <year>2002</year>
+</Music_Library>     -->
+
+<!-- <Student>
+    <name>Huzaifa</name>
+    <dob>&MS; - 10/02/2005</dob>
+    <bloodgroup>A Positive</bloodgroup>
+    <rollnumber>17</rollnumber>
+</Student>     -->
