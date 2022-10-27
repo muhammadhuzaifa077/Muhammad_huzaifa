@@ -1,0 +1,30 @@
+{
+    "myArr":[
+        {
+            "display" : "GOOGLE"     ,  
+            "URL" : "https:/www.google.com"
+        },
+        {
+            "display" : "Bing"     ,  
+            "URL" : "https:/www.bing.com"
+        },
+        {
+            "display" : "Facebook"     ,  
+            "URL" : "https:/www.facebook.com"
+        },
+        {
+            "display" : "Youtube"     ,  
+            "URL" : "https:/www.youtube.com"
+        },
+        
+        {
+            "display" : "Yahoo"     ,  
+            "URL" : "https:/www.yahoo.com"
+        },
+        {
+            "display" : "Whatsapp"     ,  
+            "URL" : "https:/www.whatsapp.com"
+        }
+    ]     
+       
+}
